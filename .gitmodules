@@ -1,0 +1,6 @@
+[submodule "persons-frontend"]
+	path = persons-frontend
+	url = .\\persons-frontend\\
+[submodule "persons-system"]
+	path = persons-system
+	url = .\\persons-system\\
