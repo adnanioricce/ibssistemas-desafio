@@ -40,9 +40,9 @@ services:
       - 8184:80
     depends_on:
       - api
-  # webserver:
-  #   image: nginx
-  #   ports:
-  #     - 80:80
-    #volumes:
-    #  volumes for nginx  
+  webserver:
+    build:
+      context: ./nginx/
+      dockerfile: Dockerfile
+    ports:
+      - 80:80         
