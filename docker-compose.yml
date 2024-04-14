@@ -45,4 +45,4 @@ services:
       context: ./nginx/
       dockerfile: Dockerfile
     ports:
-      - 80:80         
+      - 12344:80         
