@@ -1,6 +1,6 @@
 [submodule "persons-frontend"]
 	path = persons-frontend
-	url = .\\persons-frontend\\
+	url = https://github.com/adnanioricce/ibssistemas-desafio-frontend.git
 [submodule "persons-system"]
 	path = persons-system
-	url = .\\persons-system\\
+	url = https://github.com/adnanioricce/ibssistemas-desafio-api.git
