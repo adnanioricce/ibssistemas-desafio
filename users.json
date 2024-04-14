@@ -1,0 +1,19 @@
+{
+    "passwords":[
+        {
+            "salt": "$2a$10$4c6ybGjdkWEYpI6.MNV0He",
+            "password":"password",
+            "passwordHash": "$2a$10$zTpaNzReNDV54jK99gE7XOGRlBoRD9TPr/0FmG8lLI7/y9aeju9Se"
+        },
+        {
+            "salt": "$2a$10$dhaZgMvx8KTzZU4z9nmoFu",
+            "password":"passwd",
+            "passwordHash": "$2a$10$ORjzbOuuHc3ZY5ZLEc27SugVlNNpw9Ha6kW5SoiPYx.zG2AfVuhl."
+        },
+        {
+            "salt": "$2a$10$iccqhN6HbPDlPquqKcRBn.",
+            "password": "asdf1234",
+            "passwordHash": "$2a$10$zmN1JCa1P.sKDGGoxbclW.dsY1aE56a1ssK.8bxCsZ.bSRY1dx/z."
+        }
+    ]
+}
